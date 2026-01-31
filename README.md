@@ -12,10 +12,6 @@ A clean, responsive, and feature-rich to-do list web application that allows use
 - **Modern UI**: Beautiful gradient background with clean task cards
 - **Intuitive Interface**: Simple and user-friendly design
 
-## 🚀 Live Demo
-
-[Add your live demo link here if hosted on GitHub Pages, Netlify, Vercel, etc.]
-
 ## 📁 Project Structure
 
 ```
